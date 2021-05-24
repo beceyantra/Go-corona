@@ -3,5 +3,7 @@ Description:- We are creating a mobile application named GoCorona based on the f
 # 
 Hardware and Software Requirements:- Languages - Dart,Database - Firebase firestore,Tools-vs code,Librarys - flutter framework and dart language,Framework- flutter
 # 
+Process:-   step1-> install Flutter next create new Flutter project step2-> download lib, assets, android, pubsec.yaml step3-> all downloded files save in location(C:\Users\Rs\flutter_projects\go_corona) step4-> run the main.dart file 
+# 
 Data Flow Diagram:- 
 [flowcharts.docx](https://github.com/beceyantra/Go-corona/files/6532409/flowcharts.docx)
